@@ -1,6 +1,6 @@
 # AeroTrends Project
 
-![AeroTrends Logo](https://www.freepik.com/free-vector/passengers-walking-airport_5561899.htm#query=Airline%20data%20Analysis%20images&position=16&from_view=search&track=ais)
+![AeroTrends Logo](https://www.pexels.com/photo/person-with-toy-airplane-on-world-map-3769138/)
 ## Introduction
 
 AeroTrends is a data analysis project that provides valuable insights into flight trends and pricing for different airlines and routes. The dataset includes information on flight parameters such as price, class, and stops for multiple airlines and cities.
@@ -49,7 +49,7 @@ AeroTrends offers valuable insights into flight pricing trends, optimal travel t
 
 ## Acknowledgments
 
-We would like to express our gratitude to the creators of the dataset used in this project, as well as the OpenAI team for their powerful language model, which facilitated the analysis and interpretation of the data.
+I would like to express our gratitude to the creators of the dataset used in this project, as well as the OpenAI team for their powerful language model, which facilitated the analysis and interpretation of the data.
 
 ## Contact Information
 
@@ -57,5 +57,4 @@ For any inquiries or feedback, please contact:
 
 - Project Lead: [Ayush Raj]
 - Email: [arayush65@gmail.com]
-- Website: [Your Website URL]
 
